@@ -1,0 +1,10 @@
+.eggs
+.ipynb_checkpoints
+.pytest_cache
+build
+dist
+example_package.egg-info
+examplelib/__pycache__
+tests/__pycache__
+pkg_env
+*.ipynb
